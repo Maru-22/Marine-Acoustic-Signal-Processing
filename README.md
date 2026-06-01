@@ -50,7 +50,7 @@ notebooks/
 src/
 figures/
 results/
-![Descripción](Screenshot from 2026-02-11 23-37-59.png)
+
 
 README.md
 
